@@ -27,7 +27,13 @@ From the datasheet we can see that **SSP0_FS0** and **SSP0_TXD** lines are respo
 
 This device is equipped with a **TSSOP48 NAND FLash S34ML01G200TF100** so the **STRAP_BOOT_MODE1** has been set to **0** and **STRAP_BOOT_MODE0** has been set to **1**. 
 
+<img width="612" height="720" alt="STRAP_BOOT_MODE1_resized" src="https://github.com/user-attachments/assets/8e12de56-fb22-4755-beb0-727550868081" />
+<img width="612" height="720" alt="STRAP_BOOT_MODE0_resized" src="https://github.com/user-attachments/assets/c25597ec-b768-4479-8be2-cd098c4588b1" />
+
+
 The modification that needs to be done is change **STRAP_BOOT_MODE0** from **1** to **0**
+
+
 
 ## UART Boot example - H3621P (PPC GR)
 
