@@ -9,7 +9,7 @@ This project is aimed at reverse engineering the boot modes of zx279128s CPU use
 ## Boot Modes
 
 
-![xz279128s datasheet](https://github.com/user-attachments/assets/dabc4ec3-16bc-4e3a-bf05-8ab407f56315)
+![xz279128s datasheet](https://github.com/user-attachments/assets/dabc4ec3-16bc-4e3a-bf05-8ab407f56315 = 560x532)
 
 
 From the datasheet we can see that **SSP0_FS0** and **SSP0_TXD** lines are responsible for setting **STRAP_BOOT_MODE1** and **STRAP_BOOT_MODE0** bits respectively.
