@@ -9,7 +9,7 @@ This project is aimed at reverse engineering the boot modes of zx279128s CPU use
 ## Boot Modes
 
 
-<img width="560" height="532" alt="uart_boot_datasheet" src="https://github.com/user-attachments/assets/726b665d-a46b-4d12-9e48-165c8ace3dac" />
+<img width="862" height="819" alt="uart_boot_datasheet" src="https://github.com/user-attachments/assets/ecadc7e7-dad0-45ee-af24-468945b435a3" />
 
 
 
