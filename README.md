@@ -39,8 +39,7 @@ The modification that needs to be done is change **STRAP_BOOT_MODE0** from **1**
 
 This device is equipped with a **SPI NAND Flash HeYangTek HYF1GQ4UTACAE** so both **STRAP_BOOT_MODE1** and **STRAP_BOOT_MODE0** has been set to **1**.
 
-<img width="612" height="720" alt="UARTBOOT1" src="https://github.com/user-attachments/assets/802c61ac-d8df-42b8-86b0-8fcf48da9b5e" />
 <img width="612" height="720" alt="UARTBOOT2" src="https://github.com/user-attachments/assets/637c933c-fbbc-41f7-9eb9-a26b1d799623" />
-
+<img width="612" height="720" alt="UARTBOOT1" src="https://github.com/user-attachments/assets/802c61ac-d8df-42b8-86b0-8fcf48da9b5e" />
 
 The modification that needs to be done is change both **STRAP_BOOT_MODE1** and **STRAP_BOOT_MODE0** from **1** to **0**
